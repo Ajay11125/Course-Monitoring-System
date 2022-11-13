@@ -59,7 +59,7 @@ public class facultyLogin_panel {
 			System.out.println("Enter New Password");
 			String pass=input2.next();
 			try(Connection conn=DBUtil.provideConnection()){
-				PreparedStatement ps=conn.prepareStatement("update courseplan set password=? where facultyid=?;");
+				PreparedStatement ps=conn.prepareStatement("update faculty set password=? where facultyid=?;");
 				ps.setInt(2, id);
 				ps.setString(1, pass);
 				int x=ps.executeUpdate();
