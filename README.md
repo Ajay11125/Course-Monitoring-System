@@ -27,4 +27,4 @@
 <img src="Assets\FLow_Chart.jpeg">
 <h1>FeedBack</h1>
 <p>Valuable feedback will be appreciated. You can reach out to me via below medium.</p>
-<a hre="https://www.linkedin.com/in/ajay-kumar-yadav-96126a243/">LinkedIn</a>
+<a href="https://www.linkedin.com/in/ajay-kumar-yadav-96126a243/">LinkedIn</a>
