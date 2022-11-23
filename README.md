@@ -1,4 +1,5 @@
 <h1>Course-Monitoring-System</h1>
+<img src="Assets\project_logo.png">
 <p>A course management system is a set of tools that enables the Admin to create online course content and Assigning facultys to those Courses.its an DataBase management application. </p>
 <h1>Software used</h1>
 <li>MySQL</li>
@@ -21,3 +22,6 @@
 <li>Faculty can update their passwords</li>
 <h1>Overview of My work</h1>
 <h3>ER Diagram</h3>
+<img src="Assets\Model databases - Database ER diagram (crow's foot).jpeg">
+<h3>Flow Chart</h3>
+<img src="Assets\FLow_Chart.jpeg">
